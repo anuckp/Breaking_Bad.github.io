@@ -1,2 +1,3 @@
 # Breaking_Bad.github.io
-you can see it-https://app.netlify.com/sites/hardcore-hopper-2045ee
+It is a React App which Show details about All Actors of TV series Breaking Bad.
+You can see it-https://hardcore-hopper-2045ee.netlify.app/
